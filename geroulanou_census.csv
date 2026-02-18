@@ -1,0 +1,86 @@
+city_name,county_name,population_5_acs,city_fips,county_fips,st_cty_geoid,city_geoid,place_moe
+Algona city,King County,3239,01290,033,53033,5301290,27.0
+Ames Lake CDP,King County,1138,01920,033,53033,5301920,326.0
+Auburn city,King County,85455,03180,033,53033,5303180,82.0
+Baring CDP,King County,190,04300,033,53033,5304300,90.0
+Beaux Arts Village town,King County,294,04895,033,53033,5304895,82.0
+Bellevue city,King County,151199,05210,033,53033,5305210,61.0
+Black Diamond city,King County,5678,06330,033,53033,5306330,23.0
+Bothell city,King County,48610,07380,033,53033,5307380,70.0
+Boulevard Park CDP,King County,4334,07397,033,53033,5307397,1011.0
+Bryn Mawr-Skyway CDP,King County,17577,08552,033,53033,5308552,1509.0
+Burien city,King County,51331,08850,033,53033,5308850,84.0
+Carnation city,King County,2476,10215,033,53033,5310215,427.0
+Clyde Hill city,King County,3104,13365,033,53033,5313365,23.0
+Cottage Lake CDP,King County,23170,14940,033,53033,5314940,1534.0
+Covington city,King County,20957,15290,033,53033,5315290,41.0
+Des Moines city,King County,32545,17635,033,53033,5317635,81.0
+Duvall city,King County,8279,19035,033,53033,5319035,31.0
+East Renton Highlands CDP,King County,12241,19857,033,53033,5319857,1593.0
+Enumclaw city,King County,12663,22045,033,53033,5322045,30.0
+Fairwood CDP,King County,18437,23160,033,53033,5323160,1228.0
+Fall City CDP,King County,1743,23200,033,53033,5323200,392.0
+Federal Way city,King County,99232,23515,033,53033,5323515,51.0
+Hobart CDP,King County,6841,31495,033,53033,5331495,731.0
+Hunts Point town,King County,321,32755,033,53033,5332755,65.0
+Issaquah city,King County,39472,33805,033,53033,5333805,35.0
+Kenmore city,King County,23594,35170,033,53033,5335170,37.0
+Kent city,King County,135015,35415,033,53033,5335415,73.0
+Kirkland city,King County,91614,35940,033,53033,5335940,52.0
+Lake Forest Park city,King County,13356,37270,033,53033,5337270,51.0
+Lake Holm CDP,King County,3664,37345,033,53033,5337345,769.0
+Lakeland North CDP,King County,14664,37420,033,53033,5337420,1346.0
+Lakeland South CDP,King County,12869,37430,033,53033,5337430,1328.0
+Lake Marcel-Stillwater CDP,King County,1463,37538,033,53033,5337538,395.0
+Lake Morton-Berrydale CDP,King County,10591,37567,033,53033,5337567,1110.0
+Maple Heights-Lake Desire CDP,King County,3694,43062,033,53033,5343062,572.0
+Maple Valley city,King County,28121,43150,033,53033,5343150,41.0
+Medina city,King County,2889,44725,033,53033,5344725,20.0
+Mercer Island city,King County,25282,45005,033,53033,5345005,27.0
+Milton city,King County,8747,46020,033,53033,5346020,611.0
+Mirrormont CDP,King County,4217,46215,033,53033,5346215,566.0
+Newcastle city,King County,12945,48645,033,53033,5348645,31.0
+Normandy Park city,King County,6659,49415,033,53033,5349415,24.0
+North Bend city,King County,7745,49485,033,53033,5349485,29.0
+Pacific city,King County,7064,52495,033,53033,5352495,33.0
+Ravensdale CDP,King County,308,57395,033,53033,5357395,171.0
+Redmond city,King County,75721,57535,033,53033,5357535,52.0
+Renton city,King County,105279,57745,033,53033,5357745,70.0
+Riverbend CDP,King County,2150,58742,033,53033,5358742,310.0
+Riverpoint CDP,King County,982,58768,033,53033,5358768,201.0
+Sammamish city,King County,66375,61115,033,53033,5361115,51.0
+SeaTac city,King County,31143,62288,033,53033,5362288,47.0
+Seattle city,King County,741440,63000,033,53033,5363000,121.0
+Shadow Lake CDP,King County,2221,63545,033,53033,5363545,471.0
+Shoreline city,King County,59280,63960,033,53033,5363960,46.0
+Skykomish town,King County,112,64855,033,53033,5364855,46.0
+Snoqualmie city,King County,13750,65205,033,53033,5365205,49.0
+Tukwila city,King County,21479,72625,033,53033,5372625,89.0
+Union Hill-Novelty Hill CDP,King County,23272,73307,033,53033,5373307,1484.0
+Vashon CDP,King County,10424,74305,033,53033,5374305,961.0
+White Center CDP,King County,15017,78225,033,53033,5378225,1228.0
+Wilderness Rim CDP,King County,1770,78780,033,53033,5378780,455.0
+Woodinville city,King County,13440,79590,033,53033,5379590,35.0
+Yarrow Point town,King County,1192,80150,033,53033,5380150,201.0
+Bucoda town,Thurston County,511,08605,067,53067,5308605,136.0
+Grand Mound CDP,Thurston County,3711,27890,067,53067,5327890,885.0
+Lacey city,Thurston County,57088,36745,067,53067,5336745,91.0
+Nisqually Indian Community CDP,Thurston County,513,49193,067,53067,5349193,150.0
+North Yelm CDP,Thurston County,2503,50210,067,53067,5350210,699.0
+Olympia city,Thurston County,55583,51300,067,53067,5351300,92.0
+Rainier city,Thurston County,2499,57220,067,53067,5357220,481.0
+Rochester CDP,Thurston County,6025,59110,067,53067,5359110,956.0
+Tanglewilde CDP,Thurston County,6822,70280,067,53067,5370280,844.0
+Tenino city,Thurston County,1965,70630,067,53067,5370630,280.0
+Tumwater city,Thurston County,26519,72905,067,53067,5372905,44.0
+Yelm city,Thurston County,10618,80220,067,53067,5380220,32.0
+Burbank CDP,Walla Walla County,3645,08780,071,53071,5308780,521.0
+College Place city,Walla Walla County,9828,13855,071,53071,5313855,28.0
+Dixie CDP,Walla Walla County,130,18055,071,53071,5318055,53.0
+Garrett CDP,Walla Walla County,1824,26245,071,53071,5326245,430.0
+Prescott city,Walla Walla County,336,56240,071,53071,5356240,111.0
+Touchet CDP,Walla Walla County,345,72030,071,53071,5372030,142.0
+Waitsburg city,Walla Walla County,940,75565,071,53071,5375565,236.0
+Walla Walla city,Walla Walla County,33766,75775,071,53071,5375775,41.0
+Walla Walla East CDP,Walla Walla County,2264,75810,071,53071,5375810,609.0
+Wallula CDP,Walla Walla County,127,75985,071,53071,5375985,153.0

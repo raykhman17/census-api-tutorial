@@ -1,0 +1,99 @@
+city_name,county_name,population_5_acs,city_fips,county_fips,st_cty_geoid,city_geoid,place_moe
+Acme CDP,Whatcom County,284.0,00275,073,53073,5300275,194.0
+Alderwood Manor CDP,Snohomish County,10168.0,01185,061,53061,5301185,1165.0
+Arlington city,Snohomish County,20599.0,02585,061,53061,5302585,33.0
+Arlington Heights CDP,Snohomish County,2990.0,02620,061,53061,5302620,549.0
+Bell Hill CDP,Clallam County,951.0,05245,009,53009,5305245,317.0
+Bellingham city,Whatcom County,92367.0,05280,073,53073,5305280,49.0
+Birch Bay CDP,Whatcom County,11103.0,06190,073,53073,5306190,1241.0
+Blaine city,Whatcom County,5982.0,06505,073,53073,5306505,30.0
+Blyn CDP,Clallam County,196.0,06855,009,53009,5306855,189.0
+Bothell city,Snohomish County,48610.0,07380,061,53061,5307380,70.0
+Bothell East CDP,Snohomish County,14487.0,07390,061,53061,5307390,1350.0
+Bothell West CDP,Snohomish County,21014.0,07395,061,53061,5307395,1523.0
+Brier city,Snohomish County,6507.0,07940,061,53061,5307940,31.0
+Bryant CDP,Snohomish County,2375.0,08500,061,53061,5308500,912.0
+Bunk Foss CDP,Snohomish County,3718.0,08770,061,53061,5308770,597.0
+Canyon Creek CDP,Snohomish County,3556.0,09820,061,53061,5309820,844.0
+Carlsborg CDP,Clallam County,1135.0,10075,009,53009,5310075,310.0
+Cathcart CDP,Snohomish County,1878.0,10600,061,53061,5310600,443.0
+Cavalero CDP,Snohomish County,1850.0,10645,061,53061,5310645,525.0
+Chain Lake CDP,Snohomish County,4989.0,11325,061,53061,5311325,777.0
+Clallam Bay CDP,Clallam County,709.0,12525,009,53009,5312525,382.0
+Clearview CDP,Snohomish County,3508.0,12875,061,53061,5312875,812.0
+Custer CDP,Whatcom County,266.0,16375,073,53073,5316375,163.0
+Darrington town,Snohomish County,1397.0,16690,061,53061,5316690,423.0
+Deming CDP,Whatcom County,594.0,17495,073,53073,5317495,575.0
+Eastmont CDP,Snohomish County,23486.0,19630,061,53061,5319630,1850.0
+Edmonds city,Snohomish County,42783.0,20750,061,53061,5320750,83.0
+Esperance CDP,Snohomish County,3988.0,22255,061,53061,5322255,714.0
+Everett city,Snohomish County,111083.0,22640,061,53061,5322640,80.0
+Everson city,Whatcom County,2989.0,22745,073,53073,5322745,26.0
+Ferndale city,Whatcom County,15447.0,23620,073,53073,5323620,29.0
+Fobes Hill CDP,Snohomish County,2683.0,24425,061,53061,5324425,432.0
+Forks city,Clallam County,3413.0,24810,009,53009,5324810,26.0
+Geneva CDP,Whatcom County,2200.0,26420,073,53073,5326420,431.0
+Glacier CDP,Whatcom County,292.0,26875,073,53073,5326875,199.0
+Gold Bar city,Snohomish County,2396.0,27365,061,53061,5327365,524.0
+Granite Falls city,Snohomish County,4658.0,27995,061,53061,5327995,42.0
+Hat Island CDP,Snohomish County,0.0,30030,061,53061,5330030,13.0
+High Bridge CDP,Snohomish County,3147.0,30750,061,53061,5330750,438.0
+Index town,Snohomish County,164.0,33175,061,53061,5333175,108.0
+Jamestown CDP,Clallam County,409.0,33890,009,53009,5333890,196.0
+Kayak Point CDP,Snohomish County,1660.0,34915,061,53061,5334915,345.0
+Kendall CDP,Whatcom County,810.0,35135,073,53073,5335135,443.0
+Lake Bosworth CDP,Snohomish County,980.0,37077,061,53061,5337077,262.0
+Lake Cassidy CDP,Snohomish County,3337.0,37100,061,53061,5337100,533.0
+Lake Goodwin CDP,Snohomish County,5682.0,37287,061,53061,5337287,850.0
+Lake Ketchum CDP,Snohomish County,1088.0,37415,061,53061,5337415,569.0
+Lake Roesiger CDP,Snohomish County,981.0,37672,061,53061,5337672,487.0
+Lake Stevens city,Snohomish County,39500.0,37900,061,53061,5337900,39.0
+Lake Stickney CDP,Snohomish County,15514.0,37917,061,53061,5337917,1363.0
+Larch Way CDP,Snohomish County,4046.0,38420,061,53061,5338420,721.0
+Lochsloy CDP,Snohomish County,3088.0,39860,061,53061,5339860,566.0
+Lynden city,Whatcom County,16025.0,40805,073,53073,5340805,32.0
+Lynnwood city,Snohomish County,40953.0,40840,061,53061,5340840,53.0
+Machias CDP,Snohomish County,1112.0,41470,061,53061,5341470,396.0
+Maltby CDP,Snohomish County,10859.0,42415,061,53061,5342415,801.0
+Maple Falls CDP,Whatcom County,247.0,43010,073,53073,5343010,162.0
+Marietta-Alderwood CDP,Whatcom County,3569.0,43491,073,53073,5343491,426.0
+Martha Lake CDP,Snohomish County,22740.0,43815,061,53061,5343815,2158.0
+Marysville city,Snohomish County,71570.0,43955,061,53061,5343955,61.0
+May Creek CDP,Snohomish County,801.0,44260,061,53061,5344260,240.0
+Meadowdale CDP,Snohomish County,2948.0,44585,061,53061,5344585,192.0
+Mill Creek city,Snohomish County,20846.0,45865,061,53061,5345865,29.0
+Mill Creek East CDP,Snohomish County,25461.0,45870,061,53061,5345870,1244.0
+Monroe city,Snohomish County,19696.0,46685,061,53061,5346685,30.0
+Monroe North CDP,Snohomish County,2069.0,46725,061,53061,5346725,590.0
+Mountlake Terrace city,Snohomish County,21419.0,47490,061,53061,5347490,31.0
+Mukilteo city,Snohomish County,21312.0,47735,061,53061,5347735,66.0
+Neah Bay CDP,Clallam County,1056.0,48295,009,53009,5348295,184.0
+Nooksack city,Whatcom County,1547.0,49275,073,53073,5349275,364.0
+North Lynnwood CDP,Snohomish County,23653.0,49940,061,53061,5349940,1869.0
+North Sultan CDP,Snohomish County,295.0,50183,061,53061,5350183,166.0
+Northwest Stanwood CDP,Snohomish County,75.0,50195,061,53061,5350195,79.0
+Oso CDP,Snohomish County,400.0,52110,061,53061,5352110,218.0
+Peaceful Valley CDP,Whatcom County,2661.0,53800,073,53073,5353800,541.0
+Picnic Point CDP,Snohomish County,9833.0,54213,061,53061,5354213,986.0
+Point Roberts CDP,Whatcom County,1275.0,55015,073,53073,5355015,193.0
+Port Angeles city,Clallam County,20087.0,55365,009,53009,5355365,38.0
+Port Angeles East CDP,Clallam County,3035.0,55400,009,53009,5355400,388.0
+River Road CDP,Clallam County,952.0,58777,009,53009,5358777,158.0
+Sekiu CDP,Clallam County,0.0,63245,009,53009,5363245,13.0
+Sequim city,Clallam County,8130.0,63385,009,53009,5363385,36.0
+Silvana CDP,Snohomish County,0.0,64190,061,53061,5364190,13.0
+Silver Firs CDP,Snohomish County,21796.0,64380,061,53061,5364380,1300.0
+Sisco Heights CDP,Snohomish County,2942.0,64610,061,53061,5364610,599.0
+Snohomish city,Snohomish County,10177.0,65170,061,53061,5365170,21.0
+Stanwood city,Snohomish County,8351.0,67455,061,53061,5367455,17.0
+Startup CDP,Snohomish County,746.0,67595,061,53061,5367595,341.0
+Sudden Valley CDP,Whatcom County,6963.0,68200,073,53073,5368200,700.0
+Sultan city,Snohomish County,5770.0,68260,061,53061,5368260,44.0
+Sumas city,Whatcom County,1384.0,68330,073,53073,5368330,303.0
+Sunday Lake CDP,Snohomish County,1209.0,68480,061,53061,5368480,398.0
+Swede Heaven CDP,Snohomish County,1163.0,69280,061,53061,5369280,407.0
+Three Lakes CDP,Snohomish County,3466.0,71330,061,53061,5371330,597.0
+Verlot CDP,Snohomish County,387.0,74760,061,53061,5374760,240.0
+Warm Beach CDP,Snohomish County,3333.0,76195,061,53061,5376195,573.0
+Woods Creek CDP,Snohomish County,7027.0,79825,061,53061,5379825,1270.0
+Woodway city,Snohomish County,1174.0,79835,061,53061,5379835,111.0

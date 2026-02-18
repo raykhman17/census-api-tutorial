@@ -1,0 +1,24 @@
+city_name,county_name,population_5_acs,city_fips,county_fips,st_cty_geoid,city_geoid,place_moe
+Aberdeen,"Grays Harbor County, Washington",17040,00100,027,53027,5300100,29
+Aberdeen Gardens,"Grays Harbor County, Washington",406,00135,027,53027,5300135,180
+Amanda Park,"Grays Harbor County, Washington",78,01780,027,53027,5301780,50
+Brady,"Grays Harbor County, Washington",789,07590,027,53027,5307590,385
+Central Park,"Grays Harbor County, Washington",3203,11195,027,53027,5311195,570
+Cohassett Beach,"Grays Harbor County, Washington",404,13595,027,53027,5313595,214
+Copalis Beach,"Grays Harbor County, Washington",442,14660,027,53027,5314660,257
+Cosmopolis,"Grays Harbor County, Washington",2301,14870,027,53027,5314870,660
+Elma,"Grays Harbor County, Washington",3452,21450,027,53027,5321450,16
+Hoquiam,"Grays Harbor County, Washington",8792,32300,027,53027,5332300,20
+McCleary,"Grays Harbor County, Washington",2262,41225,027,53027,5341225,394
+Montesano,"Grays Harbor County, Washington",4157,46895,027,53027,5346895,17
+Oakville,"Grays Harbor County, Washington",739,50430,027,53027,5350430,232
+Ocean Shores,"Grays Harbor County, Washington",7076,50570,027,53027,5350570,25
+Westport,"Grays Harbor County, Washington",2164,77630,027,53027,5377630,567
+Dayton,"Columbia County, Washington",2695,16970,013,53013,5316970,215
+Starbuck,"Columbia County, Washington",105,67490,013,53013,5367490,47
+Benton City,"Benton County, Washington",3559,05560,005,53005,5305560,16
+Finley,"Benton County, Washington",5734,23865,005,53005,5323865,979
+Kennewick,"Benton County, Washington",84389,35275,005,53005,5335275,43
+Prosser,"Benton County, Washington",6213,56450,005,53005,5356450,20
+Richland,"Benton County, Washington",61912,58235,005,53005,5358235,49
+West Richland,"Benton County, Washington",17126,77665,005,53005,5377665,26

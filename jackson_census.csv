@@ -1,0 +1,32 @@
+city_name,county_name,population_5_acs,city_fips,county_fips,st_cty_geoid,city_geoid,place_moe
+Brinnon CDP,Jefferson County,774,08080,031,5308080,02407906,291
+Marrowstone CDP,Jefferson County,982,43762,031,5343762,02408185,256
+Port Hadlock-Irondale CDP,Jefferson County,3695,55620,031,5355620,02409092,577
+Port Ludlow CDP,Jefferson County,2979,55645,031,5355645,02409093,364
+Port Townsend city,Jefferson County,10290,55855,031,5355855,02411468,26
+Queets CDP,Jefferson County,45,56905,031,5356905,02585025,25
+Quilcene CDP,Jefferson County,490,56975,031,5356975,02409117,178
+Brewster city,Okanogan County,1737,07835,047,5307835,02409903,378
+Conconully town,Okanogan County,202,14310,047,5314310,02413236,85
+Coulee Dam town,Okanogan County,1457,15115,047,5315115,02413249,222
+Disautel CDP,Okanogan County,46,17880,047,5317880,02584967,47
+Elmer City town,Okanogan County,297,21485,047,5321485,02412478,66
+Loomis CDP,Okanogan County,102,40350,047,5340350,02586736,74
+Malott CDP,Okanogan County,708,42380,047,5342380,02586738,330
+Methow CDP,Okanogan County,91,45355,047,5345355,02586740,69
+Nespelem town,Okanogan County,155,48540,047,5348540,02413040,57
+Nespelem Community CDP,Okanogan County,322,48550,047,5348550,02408915,120
+North Omak CDP,Okanogan County,368,50007,047,5350007,02408944,135
+Okanogan city,Okanogan County,2477,50920,047,5350920,02411309,522
+Omak city,Okanogan County,4931,51340,047,5351340,02411320,22
+Oroville city,Okanogan County,1686,51970,047,5351970,02411338,396
+Pateros city,Okanogan County,648,53720,047,5353720,02411382,267
+Riverside town,Okanogan County,452,58795,047,5358795,02412556,143
+Tonasket city,Okanogan County,976,71890,047,5371890,02412082,251
+Twisp town,Okanogan County,997,73080,047,5373080,02413408,295
+Winthrop town,Okanogan County,404,79380,047,5379380,02413503,139
+Cusick town,Pend Oreille County,170,16340,051,5316340,02412397,71
+Ione town,Pend Oreille County,382,33560,051,5333560,02412795,121
+Metaline town,Pend Oreille County,133,45285,051,5345285,02412989,47
+Metaline Falls town,Pend Oreille County,288,45320,051,5345320,02412990,115
+Newport city,Pend Oreille County,2269,48820,051,5348820,02411249,369
